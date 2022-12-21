@@ -1,0 +1,62 @@
+[
+    {
+        "id": "el1",
+        "name": "Шорты мужские трикотажные синие хлопок ",
+        "img": "clocingImg/1.jpg",
+        "price": 40
+    },
+    {
+        "id": "el2",
+        "name": "Брюки мужские зауженные",
+        "img": "clocingImg/shtani.png",
+        "price": 93
+    },
+    {
+        "id": "el3",
+        "name": "куртка мужская зимняя с капюшоном удлиненная",
+        "img": "clocingImg/kurtka.jpg",
+        "price": 291
+    },
+    {
+        "id": "el4",
+        "name": "Рубашка мужская вельветовая",
+        "img": "clocingImg/2.jpg",
+        "price": 144
+    },
+    {
+        "id": "el5",
+        "name": "Высокие Кроссовки Hoops 2.0",
+        "img": "clocingImg/3.jpg",
+        "price": 203
+    },
+    {
+        "id": "el6",
+        "name": "Новогодние носки мужские с принтом и рисунком Новый год",
+        "img": "clocingImg/4.jpg",
+        "price": 11
+    },
+    {
+        "id": "el7",
+        "name": "лонгслив кофта с принтом оверсайз дрейн",
+        "img": "clocingImg/5.jpg",
+        "price": 70
+    },
+    {
+        "id": "el8",
+        "name": "Байка с начесом",
+        "img": "clocingImg/6.jpg",
+        "price": 73
+    },
+    {
+        "id": "el9",
+        "name": "Футболка мужская оверсайз",
+        "img": "clocingImg/7.jpg",
+        "price": 34
+    },
+    {
+        "id": "el10",
+        "name": "Футболка с принтом",
+        "img": "clocingImg/8.png",
+        "price": 32
+    }
+]
